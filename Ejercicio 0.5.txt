@@ -1,0 +1,4 @@
+title Ejercicio 0.5
+
+browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/spa
+server-->browser: HTML-code
